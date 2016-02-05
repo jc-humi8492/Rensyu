@@ -10,7 +10,7 @@
 
 #include <dinput.h>
 #include <XInput.h>
-#pragma comment(lib,"dxguid.lib")
+#pragma comment(lib,"dxguid.lib")	//aaaaaaaaaaaaa
 #pragma comment(lib,"dinput8.lib")
 #pragma comment(lib,"Xinput.lib")
 
