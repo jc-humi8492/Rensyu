@@ -21,6 +21,7 @@ public:
 	~Enemy(); //デストラクタ
 
 	HRESULT Update(); //更新
+	HRESULT Hit();	//当たり判定処理
 	HRESULT Render(); //描画
 	HRESULT Load();
 	void Kill();
