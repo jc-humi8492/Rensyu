@@ -14,7 +14,7 @@ class Enemy :public UnitBase
 
 	D3DXVECTOR3 move;		//移動量
 	BOOL isLive;	//生きてるフラグ(これがFALSEのときは死んでいる)
-	Sprite sprite;
+	Sprite sprite;	//コメント
 
 public:
 	Enemy(); //コンストラクタ
